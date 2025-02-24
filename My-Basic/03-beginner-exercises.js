@@ -78,7 +78,7 @@ const bigint22 = 151651435135143514351351n
 
 // 9. A continuación, modifica los valores de las constantes
 
-const cadenaDeTexto2 = "cambio de la constante texto"
+// const cadenaDeTexto2 = "cambio de la constante texto"
 
 // 10. Comenta las líneas que produzcan algún tipo de error al ejecutarse
 
