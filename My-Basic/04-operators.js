@@ -23,3 +23,12 @@ let myVariable = 2 // igual
 console.log(myVariable)
 myVariable += 2
 console.log(myVariable)
+
+myVariable += 2
+myVariable -= 2
+myVariable *= 2
+myVariable /= 2
+myVariable %= 2
+myVariable **= 2
+
+// comparacion
