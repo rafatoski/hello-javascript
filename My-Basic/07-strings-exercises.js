@@ -31,3 +31,4 @@ console.log(fullName.includes("Castillo"))
 console.log(fullName === "Castillo")
 // 10. Comprueba si dos strings tienen la misma longitud
 console.log(fullName.length == miApellido.length)
+// Primera clase con MAC
